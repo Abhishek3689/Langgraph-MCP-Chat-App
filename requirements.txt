@@ -1,0 +1,20 @@
+## Langchain and Related Libraries
+langchain
+langgraph
+langchain-core
+langchain-groq
+langchain-tavily 
+requests
+# Environment Variable Management
+python-dotenv
+
+##mcp client
+langchain-mcp-adapters
+## Database Connectors
+langgraph-checkpoint-sqlite
+
+## UI Interface
+streamlit
+
+##Database
+aiosqlite
