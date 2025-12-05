@@ -73,6 +73,7 @@ git clone https://github.com/Abhishek3689/Langgraph-MCP-Chat-App.git
 pip install -r requirements.txt
 ```
 ### 3. Add Api Keys
+Create a .env file:
 ```
 WEATHER_API_KEY=your_openweather_key
 TAVILY_API_KEY=your_tavily_key
